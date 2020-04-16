@@ -5,7 +5,7 @@
 package Driverhdrs;
 
 $LAB = "datalab";
-$SERVER_NAME = "student.cs.appstate.edu";
+$SERVER_NAME = "student2.cs.appstate.edu";
 $SERVER_PORT = 15001;
 $COURSE_NAME = "csapp";
 $AUTOGRADE_TIMEOUT = 0;
